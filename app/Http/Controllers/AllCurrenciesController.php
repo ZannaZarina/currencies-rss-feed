@@ -44,5 +44,4 @@ class AllCurrenciesController extends Controller
         return view('home', ['allCurrencies' => $allCurrencies]);
     }
 
-
 }
